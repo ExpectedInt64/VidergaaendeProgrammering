@@ -1,4 +1,4 @@
-package Lektion1.vektor;
+package Lektion1.Vektor;
 
 public class Vektor implements IVektor, Comparable<IVektor>{
     private final int x, y;

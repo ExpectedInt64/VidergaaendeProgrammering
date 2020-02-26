@@ -1,4 +1,4 @@
-package Lektion1.vektor;
+package Lektion1.Vektor;
 
 public class MainVektor {
     public static void main(String[] args) {
